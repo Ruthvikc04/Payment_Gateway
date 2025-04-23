@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e76b6f4.css",
-    "main.js": "/static/js/main.ccd67fc9.js",
-    "index.html": "/index.html",
-    "main.9e76b6f4.css.map": "/static/css/main.9e76b6f4.css.map",
-    "main.ccd67fc9.js.map": "/static/js/main.ccd67fc9.js.map"
+    "main.css": "/Payment_Gateway/static/css/main.9e76b6f4.css",
+    "main.js": "/Payment_Gateway/static/js/main.21420076.js",
+    "index.html": "/Payment_Gateway/index.html",
+    "main.9e76b6f4.css.map": "/Payment_Gateway/static/css/main.9e76b6f4.css.map",
+    "main.21420076.js.map": "/Payment_Gateway/static/js/main.21420076.js.map"
   },
   "entrypoints": [
     "static/css/main.9e76b6f4.css",
-    "static/js/main.ccd67fc9.js"
+    "static/js/main.21420076.js"
   ]
 }
